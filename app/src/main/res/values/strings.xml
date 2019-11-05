@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Krishna</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDB37y9E0562FMHknImvSmrPLpdx0yrAtU</string>
+</resources>
