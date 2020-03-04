@@ -81,7 +81,8 @@ public class KmlDemoActivity extends BaseDemoActivity {
                     alertDialog.show();
                 }
             });
-            retrieveFileFromUrl();
+            retrieveFileFromResource(val);
+           // retrieveFileFromUrl();
         } catch (Exception e) {
             Log.e("Exception caught", e.toString());
         }
